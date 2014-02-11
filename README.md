@@ -1,4 +1,4 @@
-plg_recaptcha_j15
+Joomla 1.5 Recaptcha Plugin
 =================
 
 This is an updated version of the Joomla 1.5 recaptcha plugin which can be found here: https://code.google.com/p/joomla-recaptcha/
